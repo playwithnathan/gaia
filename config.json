@@ -1,0 +1,7 @@
+{
+  "token": "NjQyOTU2ODU5NjY1NTQ3Mjc2.XxAg2g.sKcRIzN_cDigWoDYpZdWf0z3n_8",
+  "commandPrefix":"!",
+  "pingInterval": "30",
+  "madlib_trigger": "gaia",
+  "folders": ["classes", "commands"]
+}

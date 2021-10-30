@@ -1,0 +1,19 @@
+{
+    "name": "ArkTerra",
+    "description": "Discord bot for ArkTerra - arkterra.mcsrv.pro",
+    "repository": "https://github.com/playwithnathan/ArkTerra",
+    "env": {
+      "ip": {
+        "description": "arkterra.mcsrv.pro",
+        "required": true
+      },
+      "port": {
+        "description": "25565",
+        "required": true
+      },
+      "prefix": {
+        "description": "!",
+        "required": true
+      }
+    }
+}
